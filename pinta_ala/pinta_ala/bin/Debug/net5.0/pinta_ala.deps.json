@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pinta_ala/1.0.0": {
+        "runtime": {
+          "pinta_ala.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pinta_ala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

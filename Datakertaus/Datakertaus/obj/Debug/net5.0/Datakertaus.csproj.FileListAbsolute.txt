@@ -1,0 +1,16 @@
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.exe
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.deps.json
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.runtimeconfig.json
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.runtimeconfig.dev.json
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.dll
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\ref\Datakertaus.dll
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\bin\Debug\net5.0\Datakertaus.pdb
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.csprojAssemblyReference.cache
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.AssemblyInfo.cs
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.dll
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\ref\Datakertaus.dll
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.pdb
+C:\Users\35840\source\repos\Datakertaus\Datakertaus\obj\Debug\net5.0\Datakertaus.genruntimeconfig.cache

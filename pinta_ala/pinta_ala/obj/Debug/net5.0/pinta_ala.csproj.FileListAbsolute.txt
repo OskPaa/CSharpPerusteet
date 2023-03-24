@@ -1,0 +1,16 @@
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.exe
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.deps.json
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.runtimeconfig.json
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.runtimeconfig.dev.json
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.dll
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\ref\pinta_ala.dll
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\bin\Debug\net5.0\pinta_ala.pdb
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.csproj.AssemblyReference.cache
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.AssemblyInfo.cs
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.dll
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\ref\pinta_ala.dll
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.pdb
+C:\Users\35840\source\repos\pinta_ala\pinta_ala\obj\Debug\net5.0\pinta_ala.genruntimeconfig.cache
