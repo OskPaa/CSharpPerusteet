@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oskari.paakkonen\\source\\repos\\Datatypes\\Datatypes\\Datatypes.csproj",
+      "projectUniqueName": "C:\\Users\\oskari.paakkonen\\Documents\\GitHub\\CSharpPerusteet\\Datatypes\\Datatypes\\Datatypes.csproj",
       "projectName": "Datatypes",
-      "projectPath": "C:\\Users\\oskari.paakkonen\\source\\repos\\Datatypes\\Datatypes\\Datatypes.csproj",
+      "projectPath": "C:\\Users\\oskari.paakkonen\\Documents\\GitHub\\CSharpPerusteet\\Datatypes\\Datatypes\\Datatypes.csproj",
       "packagesPath": "C:\\Users\\oskari.paakkonen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oskari.paakkonen\\source\\repos\\Datatypes\\Datatypes\\obj\\",
+      "outputPath": "C:\\Users\\oskari.paakkonen\\Documents\\GitHub\\CSharpPerusteet\\Datatypes\\Datatypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oskari.paakkonen\\AppData\\Roaming\\NuGet\\NuGet.Config",

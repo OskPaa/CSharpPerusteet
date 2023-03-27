@@ -1,0 +1,6 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\bin\Debug\kolmio.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\bin\Debug\kolmio.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\bin\Debug\kolmio.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\obj\Debug\kolmio.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\obj\Debug\kolmio.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmio\kolmio\obj\Debug\kolmio.pdb

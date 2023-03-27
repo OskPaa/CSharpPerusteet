@@ -27,7 +27,7 @@ namespace Datatypes
             //<data type> <variable name>
 
             //int
-            int apu = 5;
+            /*int apu = 5;
             int integerValue = 10; // puolipiste rivin loppuun
             integerValue = 15; //annetaan muuttujalle uusi arvo
             //double
@@ -58,25 +58,37 @@ namespace Datatypes
             int kuukausina = ika * 12;
             // ilmoitetaan käyttäjän ikä kuukaisina
             Console.WriteLine($"Olet siis {kuukausina} kuukautta vanha!");
-            #endregion
+            #endregion*/
 
             #region 4 C# Perus: Palkan lasku
             //kysytään työntekijän palkka
             Console.WriteLine("Anna työntekijän tuntipalkka euroina");
+
             //käyttäjä syöttää tuntipalkan
             double palkka = double.Parse(Console.ReadLine());
+            
             //kysytään työntekijän normaalipalkkaiset tunnit
             Console.WriteLine("Anna työntekijän normaalipalkkaiset tunnit");
+            
             //käyttäjä syöttää normaalipalkkaiset tunnit
-            int tunnit = Int32.Parse(Console.ReadLine());
+            double tunnit = double.Parse(Console.ReadLine());
+            
             //kysytään työntekijän 50% koron tunnit
             Console.WriteLine("Anna työntekijän 50% korotetut tunnit");
+            
             //käyttäjä syöttää 50% koron tunnit
-            int korkotunnit50 = Int32.Parse(Console.ReadLine());
+            double korkoTunnit50 = double.Parse(Console.ReadLine());
             //kysytään työntekijän 100% koron tunnit
             Console.WriteLine("Anna työntekijän 100% korotetut tunnit");
+            
             //käyttäjä syöttää 100% koron tunnit
-            int korkotunnit100 = Int32.Parse(Console.ReadLine());
+            double korkoTunnit100 = double.Parse(Console.ReadLine());
+            
+            //Lasketaan kokonaispalkka
+            double kokoPalkka = palkka * tunnit + palkka * korkoTunnit50 * 1.5 + palkka * korkoTunnit100 * 2;
+            
+            //Näytetään käyttäjälle kokonaispalkka
+            Console.WriteLine($"Työntekijän palkka on kokonaisuudessaan {kokoPalkka} euroa");
             #endregion
         }
     }

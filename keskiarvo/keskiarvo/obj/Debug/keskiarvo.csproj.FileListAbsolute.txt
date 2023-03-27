@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\bin\Debug\keskiarvo.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\bin\Debug\keskiarvo.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\bin\Debug\keskiarvo.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\obj\Debug\keskiarvo.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\obj\Debug\keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\obj\Debug\keskiarvo.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\keskiarvo\keskiarvo\obj\Debug\keskiarvo.pdb
