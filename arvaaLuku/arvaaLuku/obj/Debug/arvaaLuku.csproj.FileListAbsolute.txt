@@ -1,0 +1,6 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\bin\Debug\arvaaLuku.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\bin\Debug\arvaaLuku.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\bin\Debug\arvaaLuku.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\obj\Debug\arvaaLuku.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\obj\Debug\arvaaLuku.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\arvaaLuku\arvaaLuku\obj\Debug\arvaaLuku.pdb

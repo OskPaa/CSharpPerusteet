@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\bin\Debug\vertailu.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\bin\Debug\vertailu.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\bin\Debug\vertailu.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\obj\Debug\vertailu.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\obj\Debug\vertailu.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\obj\Debug\vertailu.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vertailu\vertailu\obj\Debug\vertailu.pdb

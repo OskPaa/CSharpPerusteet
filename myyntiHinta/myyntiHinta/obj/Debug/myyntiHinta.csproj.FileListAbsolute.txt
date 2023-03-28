@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\bin\Debug\myyntiHinta.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\bin\Debug\myyntiHinta.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\bin\Debug\myyntiHinta.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\obj\Debug\myyntiHinta.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\obj\Debug\myyntiHinta.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\obj\Debug\myyntiHinta.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\myyntiHinta\myyntiHinta\obj\Debug\myyntiHinta.pdb

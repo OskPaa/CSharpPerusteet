@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\bin\Debug\ikaTarkistus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\bin\Debug\ikaTarkistus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\bin\Debug\ikaTarkistus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\obj\Debug\ikaTarkistus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\obj\Debug\ikaTarkistus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\obj\Debug\ikaTarkistus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ikaTarkistus\ikaTarkistus\obj\Debug\ikaTarkistus.pdb

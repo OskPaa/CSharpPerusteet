@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\bin\Debug\ohjausRakenne.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\bin\Debug\ohjausRakenne.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\bin\Debug\ohjausRakenne.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\obj\Debug\ohjausRakenne.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\obj\Debug\ohjausRakenne.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\obj\Debug\ohjausRakenne.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ohjausRakenne\ohjausRakenne\obj\Debug\ohjausRakenne.pdb

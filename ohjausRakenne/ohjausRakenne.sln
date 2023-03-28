@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ohjausRakenne", "ohjausRakenne\ohjausRakenne.csproj", "{D636D3D0-D8B3-40FC-A9B4-8A93C7FC760F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D636D3D0-D8B3-40FC-A9B4-8A93C7FC760F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D636D3D0-D8B3-40FC-A9B4-8A93C7FC760F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D636D3D0-D8B3-40FC-A9B4-8A93C7FC760F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D636D3D0-D8B3-40FC-A9B4-8A93C7FC760F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DFE6028-AB31-4399-AF22-E4267876567B}
+	EndGlobalSection
+EndGlobal
