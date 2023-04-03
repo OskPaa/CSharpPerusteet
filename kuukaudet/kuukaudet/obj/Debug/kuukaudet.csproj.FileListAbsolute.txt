@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\obj\Debug\kuukaudet.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\obj\Debug\kuukaudet.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\bin\Debug\kuukaudet.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\bin\Debug\kuukaudet.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\bin\Debug\kuukaudet.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\obj\Debug\kuukaudet.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kuukaudet\kuukaudet\obj\Debug\kuukaudet.pdb

@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\parillisuus\parillisuus
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\bin\Debug\parillisuus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\bin\Debug\parillisuus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\bin\Debug\parillisuus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\parillisuus\parillisuus\obj\Debug\parillisuus.pdb

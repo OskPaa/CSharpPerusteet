@@ -13,6 +13,9 @@ namespace parillisuus
             Console.Write("Syötä luku:");
             int value = int.Parse(Console.ReadLine());
             int result = value % 2; // Selvitetään onko luvulla jakojäännös, kun se jaetaan kahdella
+
+            // if else -rakenteella
+
             if (result == 1) // Jakojäännöksen ollessa 1 suoritetaan seuraava koodin pätkä 
             {
                 Console.WriteLine("Luku on pariton"); // ilmoitetaan käyttäjälle luvun olevan pariton
@@ -21,6 +24,24 @@ namespace parillisuus
             {
                 Console.WriteLine("Luku on parillinen"); // ilmoitetaan käyttäjälle luvun olevan parillinen
             }
+
+            // switch case -rakenteella
+
+            switch (result)
+            {
+                case 1:
+                    Console.WriteLine("Luku on pariton");
+                    break;
+
+                default:
+                    Console.WriteLine("Luku on parillinen");
+                    break;
+            }
+
+            // ternary - rakenteella
+
+            string answer = result == 1 ? "pariton" : "parillinen";  // jos result-muuttuja on 1, niin answer-muutujan arvoksi tulee "pariton". muissa tapauksissa "parillinen"  
+            Console.WriteLine($"Luku on {answer}");
 
             //Suljetaan ohjelma
             Console.WriteLine();
