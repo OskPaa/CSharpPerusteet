@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\bin\Debug\lampomuunnin.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\bin\Debug\lampomuunnin.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\bin\Debug\lampomuunnin.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\obj\Debug\lampomuunnin.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\obj\Debug\lampomuunnin.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\obj\Debug\lampomuunnin.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampomuunnin\lampomuunnin\obj\Debug\lampomuunnin.pdb

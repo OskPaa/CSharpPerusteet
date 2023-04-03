@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\bin\Debug\pariLaskuri.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\bin\Debug\pariLaskuri.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\bin\Debug\pariLaskuri.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\obj\Debug\pariLaskuri.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\obj\Debug\pariLaskuri.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\obj\Debug\pariLaskuri.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pariLaskuri\pariLaskuri\obj\Debug\pariLaskuri.pdb

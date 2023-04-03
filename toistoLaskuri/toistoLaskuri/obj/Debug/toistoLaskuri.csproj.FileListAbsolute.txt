@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\bin\Debug\toistoLaskuri.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\bin\Debug\toistoLaskuri.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\bin\Debug\toistoLaskuri.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\obj\Debug\toistoLaskuri.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\obj\Debug\toistoLaskuri.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\obj\Debug\toistoLaskuri.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\toistoLaskuri\toistoLaskuri\obj\Debug\toistoLaskuri.pdb
