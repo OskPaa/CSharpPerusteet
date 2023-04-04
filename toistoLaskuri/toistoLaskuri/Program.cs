@@ -26,6 +26,11 @@ namespace toistoLaskuri
                 counter++; // Nostetaan laskurin arvoa yhdellä
             }
 
+            for (int i = 0;i<=finalNumber;i++) 
+            {
+                Console.Write($"{i}, ");
+            }
+
             // Suljetaan ohjelma
             Console.WriteLine();
             Console.WriteLine("Press any key to close program");

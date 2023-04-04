@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\bin\Debug\tahtiTulostin.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\bin\Debug\tahtiTulostin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\bin\Debug\tahtiTulostin.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\obj\Debug\tahtiTulostin.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\obj\Debug\tahtiTulostin.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\obj\Debug\tahtiTulostin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\tahtiTulostin\tahtiTulostin\obj\Debug\tahtiTulostin.pdb

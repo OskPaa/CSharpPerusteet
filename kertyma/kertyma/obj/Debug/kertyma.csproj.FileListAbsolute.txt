@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\bin\Debug\kertyma.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\bin\Debug\kertyma.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\bin\Debug\kertyma.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\obj\Debug\kertyma.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\obj\Debug\kertyma.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\obj\Debug\kertyma.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kertyma\kertyma\obj\Debug\kertyma.pdb

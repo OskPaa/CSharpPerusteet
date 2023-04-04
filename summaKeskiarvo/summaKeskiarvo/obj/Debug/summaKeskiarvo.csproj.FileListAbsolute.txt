@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\bin\Debug\summaKeskiarvo.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\bin\Debug\summaKeskiarvo.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\bin\Debug\summaKeskiarvo.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\obj\Debug\summaKeskiarvo.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\obj\Debug\summaKeskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\obj\Debug\summaKeskiarvo.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\summaKeskiarvo\summaKeskiarvo\obj\Debug\summaKeskiarvo.pdb

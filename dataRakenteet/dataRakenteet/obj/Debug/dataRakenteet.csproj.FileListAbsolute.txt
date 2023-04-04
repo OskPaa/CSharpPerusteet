@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\bin\Debug\dataRakenteet.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\bin\Debug\dataRakenteet.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\bin\Debug\dataRakenteet.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\obj\Debug\dataRakenteet.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\obj\Debug\dataRakenteet.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\obj\Debug\dataRakenteet.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\dataRakenteet\dataRakenteet\obj\Debug\dataRakenteet.pdb
