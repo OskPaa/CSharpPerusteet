@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\bin\Debug\kirjainPois.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\bin\Debug\kirjainPois.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\bin\Debug\kirjainPois.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\obj\Debug\kirjainPois.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\obj\Debug\kirjainPois.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\obj\Debug\kirjainPois.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kirjainPois\kirjainPois\obj\Debug\kirjainPois.pdb

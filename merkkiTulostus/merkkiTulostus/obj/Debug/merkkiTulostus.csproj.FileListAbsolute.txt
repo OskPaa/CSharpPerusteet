@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\bin\Debug\merkkiTulostus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\bin\Debug\merkkiTulostus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\bin\Debug\merkkiTulostus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\obj\Debug\merkkiTulostus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\obj\Debug\merkkiTulostus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\obj\Debug\merkkiTulostus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\merkkiTulostus\merkkiTulostus\obj\Debug\merkkiTulostus.pdb
