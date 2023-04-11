@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\bin\Debug\luvustaLukuun.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\bin\Debug\luvustaLukuun.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\bin\Debug\luvustaLukuun.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\obj\Debug\luvustaLukuun.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\obj\Debug\luvustaLukuun.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\obj\Debug\luvustaLukuun.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\luvustaLukuun\luvustaLukuun\obj\Debug\luvustaLukuun.pdb

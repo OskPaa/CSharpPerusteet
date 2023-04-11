@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\bin\Debug\salasananArvaus.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\bin\Debug\salasananArvaus.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\bin\Debug\salasananArvaus.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\obj\Debug\salasananArvaus.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\obj\Debug\salasananArvaus.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\obj\Debug\salasananArvaus.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\salasananArvaus\salasananArvaus\obj\Debug\salasananArvaus.pdb
