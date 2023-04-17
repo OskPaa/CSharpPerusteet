@@ -30,14 +30,17 @@ namespace vokaaliTaulukko
                     case 'ö':
                         vowelList.Add(letter); // Lisätään vokaali listaan
                         vowels[i] = letter; // Lisätään vokaali taulukkoon
-                        i++; // Nostetaan ikrenttiä
+                        i++; // Nostetaan inkrementtiä
                         break; // Päätetään switch case
                 }
             }
             // Tulostetaan taulukon sisältä foreach-loopilla
             foreach(char vowel in vowels)
             {
-                Console.Write(vowel);
+                if (vowel != 0) 
+                { 
+                    Console.Write(vowel);
+                }
             }
             Console.WriteLine();
             // Tulostetaan listan sisältä foreach-loopilla

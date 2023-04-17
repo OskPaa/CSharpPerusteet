@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaul
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\bin\Debug\lampoTaulukko.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\bin\Debug\lampoTaulukko.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\bin\Debug\lampoTaulukko.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\lampoTaulukko\lampoTaulukko\obj\Debug\lampoTaulukko.pdb

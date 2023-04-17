@@ -11,44 +11,48 @@ namespace lampoTaulukko
         static void Main(string[] args)
         {
             double[] temperatureArray = new double[4];
-            List<double> temperatureList = new List<double>();
+            List<(int,double)> temperatureList = new List<(int,double)>();
 
             int timeOfDay = 6;
 
             for(int i = 0; i < temperatureArray.Length; i++)
             {
-                Console.Write($"Anna klo {timeOfDay} lämpötila: ");
-                temperatureArray[i] = double.Parse(Console.ReadLine());
-                temperatureList.Add(temperatureArray[i]);
-                timeOfDay += 6;
+                Console.Write($"Anna klo {timeOfDay}.00 lämpötila: "); // Kysytään käyttäjältä lämpötilaa
+                temperatureArray[i] = double.Parse(Console.ReadLine()); // Tallenetaan käyttäjän syöte taulukkoon
+                temperatureList.Add((timeOfDay,temperatureArray[i])); // Kopioidaan taulukon tieto listaan 
+                timeOfDay += 6; // Päivitetään "kellonaika" seuraavaa kierrosta varten
             }
-            
+
             // Tulostetaan ääri- ja keskiarvot valmiilla metodeilla
+            Console.WriteLine();
             Console.WriteLine($"Päivän matalin lämpötila oli {temperatureArray.Min()} astetta.");
             Console.WriteLine($"Päivän korkein lämpötila oli {temperatureArray.Max()} astetta.");
             Console.WriteLine($"Päivän keskilämpötila oli {temperatureArray.Average()} astetta.");
             
-            double min = temperatureArray[0], max = temperatureArray[0], average = 0d;
+            double min = temperatureArray[0], max = temperatureArray[0], average = 0d; // Määritetään tulostettavat double-arvot foreach-loopin ulkopuolella
+            int maxTime = 6, minTime = 6; // Määritetään tulostettavat int-arvot foreach-loopin ulkopuolella
 
-            foreach (double temperature in temperatureList)
+            foreach ((int,double) temperature in temperatureList) // Looppi, jossa selvitetään minimi ja maksimi lämpötilat
             {
-                average += temperature;
-                if (temperature < min)
+                average += temperature.Item2; // Lisätään tämän hetkinen lämpötila keskiarvon laskettavaan muuttujaan
+                if (temperature.Item2 < min) // Tarkistetaan on minimiarvo pienempi kuin tämän hetkinen arvo
                 {
-                    min = temperature;
+                    min = temperature.Item2; // Korvataan minimiarvo pienemmällä arvolla
+                    minTime = temperature.Item1; // Vaihdetaan ajankohta oikeaksi
                 }
-                if (temperature >max)
+                if (temperature.Item2 > max) // Tarkistetaan on maksimiarvo suurempi kuin tämän hetkinen arvo
                 {
-                    max = temperature;
+                    max = temperature.Item2; // Korvataan maksimiarvo suuremmalla arvolla
+                    maxTime = temperature.Item1; // Vaihdetaan ajankohta oikeaksi
                 }
             }
 
-            average /= 4;
+            average /= 4; //Lasketaan keskiarvo jakamalla loopissa laskettu summa
 
             // Tulostetaan omalla koodilla saadut tulokset
             Console.WriteLine();
-            Console.WriteLine($"Päivän matalin lämpötila oli {min} astetta.");
-            Console.WriteLine($"Päivän korkein lämpötila oli {max} astetta.");
+            Console.WriteLine($"Päivän matalin lämpötila oli {min} astetta klo {minTime}.00");
+            Console.WriteLine($"Päivän korkein lämpötila oli {max} astetta klo {maxTime}.00");
             Console.WriteLine($"Päivän keskilämpötila oli {average} astetta.");
 
 

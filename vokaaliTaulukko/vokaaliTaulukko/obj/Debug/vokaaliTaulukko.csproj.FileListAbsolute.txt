@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaali
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\bin\Debug\vokaaliTaulukko.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\bin\Debug\vokaaliTaulukko.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\bin\Debug\vokaaliTaulukko.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\vokaaliTaulukko\vokaaliTaulukko\obj\Debug\vokaaliTaulukko.pdb
