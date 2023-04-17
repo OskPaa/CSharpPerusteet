@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\bin\Debug\listaMerkkiVertailu.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\bin\Debug\listaMerkkiVertailu.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\bin\Debug\listaMerkkiVertailu.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\obj\Debug\listaMerkkiVertailu.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\obj\Debug\listaMerkkiVertailu.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\obj\Debug\listaMerkkiVertailu.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\listaMerkkiVertailu\listaMerkkiVertailu\obj\Debug\listaMerkkiVertailu.pdb

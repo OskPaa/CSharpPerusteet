@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\bin\Debug\merkkiVertailu.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\bin\Debug\merkkiVertailu.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\bin\Debug\merkkiVertailu.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\obj\Debug\merkkiVertailu.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\obj\Debug\merkkiVertailu.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\obj\Debug\merkkiVertailu.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiVertailu\merkkiVertailu\obj\Debug\merkkiVertailu.pdb

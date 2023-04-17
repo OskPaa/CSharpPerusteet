@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\bin\Debug\merkkiTaulukkoLista.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\bin\Debug\merkkiTaulukkoLista.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\bin\Debug\merkkiTaulukkoLista.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\obj\Debug\merkkiTaulukkoLista.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\obj\Debug\merkkiTaulukkoLista.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\obj\Debug\merkkiTaulukkoLista.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\merkkiTaulukkoLista\merkkiTaulukkoLista\obj\Debug\merkkiTaulukkoLista.pdb

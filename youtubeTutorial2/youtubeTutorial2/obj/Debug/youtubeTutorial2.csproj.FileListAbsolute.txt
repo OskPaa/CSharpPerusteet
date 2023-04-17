@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\bin\Debug\youtubeTutorial2.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\bin\Debug\youtubeTutorial2.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\bin\Debug\youtubeTutorial2.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\obj\Debug\youtubeTutorial2.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\obj\Debug\youtubeTutorial2.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\obj\Debug\youtubeTutorial2.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\youtubeTutorial2\youtubeTutorial2\obj\Debug\youtubeTutorial2.pdb
