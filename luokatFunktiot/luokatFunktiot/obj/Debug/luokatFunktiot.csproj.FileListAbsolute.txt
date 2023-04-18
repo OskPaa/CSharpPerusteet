@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\bin\Debug\luokatFunktiot.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\bin\Debug\luokatFunktiot.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\bin\Debug\luokatFunktiot.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\obj\Debug\luokatFunktiot.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\obj\Debug\luokatFunktiot.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\obj\Debug\luokatFunktiot.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\luokatFunktiot\luokatFunktiot\obj\Debug\luokatFunktiot.pdb

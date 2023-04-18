@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\bin\Debug\kolmioFunktio.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\bin\Debug\kolmioFunktio.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\bin\Debug\kolmioFunktio.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\obj\Debug\kolmioFunktio.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\obj\Debug\kolmioFunktio.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\obj\Debug\kolmioFunktio.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioFunktio\kolmioFunktio\obj\Debug\kolmioFunktio.pdb

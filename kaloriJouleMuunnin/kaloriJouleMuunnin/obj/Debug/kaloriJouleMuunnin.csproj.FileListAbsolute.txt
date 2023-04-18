@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\bin\Debug\kaloriJouleMuunnin.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\bin\Debug\kaloriJouleMuunnin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\bin\Debug\kaloriJouleMuunnin.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\obj\Debug\kaloriJouleMuunnin.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\obj\Debug\kaloriJouleMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\obj\Debug\kaloriJouleMuunnin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaloriJouleMuunnin\kaloriJouleMuunnin\obj\Debug\kaloriJouleMuunnin.pdb

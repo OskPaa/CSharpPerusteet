@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\bin\Debug\funktioHarjoitus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\bin\Debug\funktioHarjoitus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\bin\Debug\funktioHarjoitus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\obj\Debug\funktioHarjoitus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\obj\Debug\funktioHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\obj\Debug\funktioHarjoitus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\funktioHarjoitus\funktioHarjoitus\obj\Debug\funktioHarjoitus.pdb
