@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\bin\Debug\lampoMetodit.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\bin\Debug\lampoMetodit.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\bin\Debug\lampoMetodit.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\obj\Debug\lampoMetodit.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\obj\Debug\lampoMetodit.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\obj\Debug\lampoMetodit.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\lampoMetodit\lampoMetodit\obj\Debug\lampoMetodit.pdb
