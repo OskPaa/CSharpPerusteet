@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\bin\Debug\kolmioNelioLuokat.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\bin\Debug\kolmioNelioLuokat.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\bin\Debug\kolmioNelioLuokat.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\obj\Debug\kolmioNelioLuokat.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\obj\Debug\kolmioNelioLuokat.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\obj\Debug\kolmioNelioLuokat.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kolmioNelioLuokat\kolmioNelioLuokat\obj\Debug\kolmioNelioLuokat.pdb

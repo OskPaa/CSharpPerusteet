@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\bensanKulutus\bensanKul
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\bin\Debug\bensanKulutus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\bin\Debug\bensanKulutus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\bin\Debug\bensanKulutus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\bensanKulutus\bensanKulutus\obj\Debug\bensanKulutus.pdb
