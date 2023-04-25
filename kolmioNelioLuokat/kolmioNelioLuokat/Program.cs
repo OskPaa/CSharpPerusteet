@@ -13,6 +13,11 @@ namespace kolmioNelioLuokat
             Square square1 = new Square(5, 10);
             Console.WriteLine($"Area on square one is {square1.Area()}");
             Console.WriteLine($"Circumference on square one is {square1.Circumference()}");
+
+            Triangle triangleOne = new Triangle(2, 5);
+            Console.WriteLine($"Area of triangle one is {triangleOne.Area()}");
+            Console.WriteLine($"Perimeter of triangle one is {triangleOne.Perimeter()}");
+
             Console.ReadKey();
         }
     }
@@ -35,9 +40,5 @@ namespace kolmioNelioLuokat
         {
             return (Width * 2) + (Height * 2);
         }
-    }
-    public class Triangle
-    {
-
     }
 }

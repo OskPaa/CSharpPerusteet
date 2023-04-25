@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{261364FC-D79D-4A29-9B3F-09EB8683332D}</ProjectGuid>
+    <ProjectGuid>{EAB7CAF1-12DC-4007-9A55-1EE337E689C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>kolmioNelioLuokat</RootNamespace>
-    <AssemblyName>kolmioNelioLuokat</AssemblyName>
+    <RootNamespace>bensaLuokat</RootNamespace>
+    <AssemblyName>bensaLuokat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Triangle.cs" />
+    <Compile Include="Trip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

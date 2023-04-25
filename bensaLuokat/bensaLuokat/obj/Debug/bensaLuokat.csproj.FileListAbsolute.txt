@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\bin\Debug\bensaLuokat.exe.config
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\bin\Debug\bensaLuokat.exe
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\bin\Debug\bensaLuokat.pdb
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\obj\Debug\bensaLuokat.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\obj\Debug\bensaLuokat.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\obj\Debug\bensaLuokat.exe
+C:\Users\oskari.paakkonen\source\repos\bensaLuokat\bensaLuokat\obj\Debug\bensaLuokat.pdb
