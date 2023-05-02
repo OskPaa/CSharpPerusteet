@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\bin\Debug\secondSymbol.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\bin\Debug\secondSymbol.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\bin\Debug\secondSymbol.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\obj\Debug\secondSymbol.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\obj\Debug\secondSymbol.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\obj\Debug\secondSymbol.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\secondSymbol\secondSymbol\obj\Debug\secondSymbol.pdb

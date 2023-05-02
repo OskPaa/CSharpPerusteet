@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\metriMuunnin\metriMuunn
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\bin\Debug\metriMuunnin.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\bin\Debug\metriMuunnin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\bin\Debug\metriMuunnin.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\metriMuunnin\metriMuunnin\obj\Debug\metriMuunnin.pdb
