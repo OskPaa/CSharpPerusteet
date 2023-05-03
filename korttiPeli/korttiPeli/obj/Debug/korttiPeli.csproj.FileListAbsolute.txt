@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\bin\Debug\korttiPeli.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\bin\Debug\korttiPeli.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\bin\Debug\korttiPeli.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\obj\Debug\korttiPeli.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\obj\Debug\korttiPeli.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\obj\Debug\korttiPeli.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\korttiPeli\korttiPeli\obj\Debug\korttiPeli.pdb
