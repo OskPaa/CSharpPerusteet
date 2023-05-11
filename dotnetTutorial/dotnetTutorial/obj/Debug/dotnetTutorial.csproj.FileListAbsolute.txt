@@ -1,0 +1,7 @@
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\bin\Debug\dotnetTutorial.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\bin\Debug\dotnetTutorial.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\bin\Debug\dotnetTutorial.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\obj\Debug\dotnetTutorial.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\obj\Debug\dotnetTutorial.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\obj\Debug\dotnetTutorial.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\dotnetTutorial\dotnetTutorial\obj\Debug\dotnetTutorial.pdb
