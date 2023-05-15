@@ -5,3 +5,10 @@ C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaikenKertaus\kaikenK
 C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.csproj.CoreCompileInputs.cache
 C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.exe
 C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\bin\Debug\kaikenKertaus.exe.config
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\bin\Debug\kaikenKertaus.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\bin\Debug\kaikenKertaus.pdb
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.csproj.AssemblyReference.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.csproj.CoreCompileInputs.cache
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.exe
+C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\kaikenKertaus\kaikenKertaus\obj\Debug\kaikenKertaus.pdb
