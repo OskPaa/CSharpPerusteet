@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\bin\Debug\ostokset.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\bin\Debug\ostokset.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\bin\Debug\ostokset.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\obj\Debug\ostokset.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\obj\Debug\ostokset.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\obj\Debug\ostokset.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\ostokset\ostokset\obj\Debug\ostokset.pdb

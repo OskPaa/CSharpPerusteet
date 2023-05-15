@@ -39,6 +39,7 @@ namespace kaikenKertaus
 
             } while (contLoop.Contains("k")); // Tarkistetaan loopin lopussa, jatkuuko eläimien lisäys
 
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Laji\tNimi\tSukupuoli\tPaino\tIkä\tRokotettu"); // Kirjoitetaan otsikot tulostettaville tiedoille
             foreach(var item in animals)
             {
@@ -46,9 +47,20 @@ namespace kaikenKertaus
                 Console.WriteLine($"{item.Species}\t{item.Name}\t{item.Gender}\t\t{item.Weight}\t{item.Age}\t{item.Vaccinated}"); 
             }
 
+
+            // Rokotetaan satunnaisia eläimiä for-loopissa
+            Console.ForegroundColor = ConsoleColor.White;
+            Random random = new Random(); // Satunnaisten lukujen luomiseksi tehdään Random-luokan objekti
+
+            for(int i = 0; i < animals.Count; i++)
+            {
+                animals[random.Next(i, animals.Count)].Vaccinate(); // Rokotetaan satunnainen eläin
+            }
+
+
             // Tallenetaan rokotetut eläimet taulukkoon
             Animal[] vaxAnimals = GetHealthyAnimals(animals);
-
+            Console.ForegroundColor = ConsoleColor.Blue;
             if (vaxAnimals.Length > 0) // Katsotaan onko taulukossa yhtään rokotettua eläintä 
             {
                 foreach(var item in vaxAnimals)
@@ -62,6 +74,7 @@ namespace kaikenKertaus
                 Console.WriteLine("Taulukko ei sisällä yhtään rokotettua eläintä.");  
             }
 
+            Console.ForegroundColor = ConsoleColor.White;
             // Suljetaan ohjelma
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
