@@ -13,7 +13,8 @@ namespace ostokset
         // Properties
 
         public string ShopName { get; set; }
-        private List<Product> Products { get; set; }
+        public List<Product> Products { get; }
+
         public decimal Sum { get; set; }
 
         // Constructor
@@ -34,5 +35,12 @@ namespace ostokset
             Sum += temp.Price;
         }
 
+        public void PrintProduct()
+        {
+            for(int i=0;i < Products.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {Products[i].Name}\t\t\t{Products[i].Price}");
+            }
+        }
     }
 }
