@@ -5,3 +5,10 @@ C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTila
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.csproj.CoreCompileInputs.cache
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.exe
 C:\Users\35840\OneDrive\Tiedostot\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\bin\Debug\pitsanTilaus.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\bin\Debug\pitsanTilaus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\bin\Debug\pitsanTilaus.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\pitsanTilaus\pitsanTilaus\obj\Debug\pitsanTilaus.pdb

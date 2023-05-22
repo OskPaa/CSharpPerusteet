@@ -13,7 +13,7 @@ namespace pitsanTilaus
         // Constructor
         public Topping(string name)
         {
-            Name = name;
+            Name = name; // Täytteen nimi
         }
     }
 }

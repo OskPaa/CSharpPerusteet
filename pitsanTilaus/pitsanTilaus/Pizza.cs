@@ -14,19 +14,19 @@ namespace pitsanTilaus
         // Constructor
         public Pizza()
         {
-            Toppings = new List<Topping>();
-            BasePrice = 15M;
+            Toppings = new List<Topping>(); // Lista pizzan täytteistä
+            BasePrice = 15M; // Pizzan vakiohinta
         }
         // Methods
         public decimal CalculatePrice()
         {
-            if (Toppings.Count < 4)
+            if (Toppings.Count < 4) // Tapaukset, jossa palautetaan vakiohinta
             {
-                return BasePrice;
+                return BasePrice; // Palautetaan vakiohinta
             }
-            else
+            else // muut tapaukset (Täytteitä on enemmän kuin 3)
             {
-                return BasePrice + (Toppings.Count - 3);
+                return BasePrice + (Toppings.Count - 3); // Palautetaan uusi laskettu hinta 
             }
         }
     }
