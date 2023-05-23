@@ -1,0 +1,7 @@
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\bin\Debug\cSharpKoe.exe.config
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\bin\Debug\cSharpKoe.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\bin\Debug\cSharpKoe.pdb
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\obj\Debug\cSharpKoe.csprojAssemblyReference.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\obj\Debug\cSharpKoe.csproj.CoreCompileInputs.cache
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\obj\Debug\cSharpKoe.exe
+C:\Users\oskari.paakkonen\Documents\GitHub\CSharpPerusteet\cSharpKoe\cSharpKoe\obj\Debug\cSharpKoe.pdb
